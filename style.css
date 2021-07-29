@@ -1,0 +1,41 @@
+/* custom color*/
+.header-color{
+	background-color:#264653;
+}
+.gray-scale{
+	filter: grayscale(1);
+	-webkit-filter: grayscale(1);
+}
+
+/*font-section*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.f-family{
+	 font-family:'Poppins', sans-serif;
+}
+.f-weight-bold{
+	font-weight: bold;
+}
+.special-f-color{
+	color: #E76F51;
+}
+/* image part */
+.header-img-size{
+	width: 34.5rem;
+	height: 27.93rem;
+}
+.card-img-size{
+	width: 9.31rem;
+	height: 9.31rem;
+}
+.faq-img-size{
+	/* width: 26.56rem; */
+	height: 24.84rem;
+}
+.hr-w{
+	width: 23.5248em;
+}
+.btn-color{
+	background-color:#E76F51;
+	border-radius: .75rem;
+}
+
